@@ -1,0 +1,16 @@
+id: IDB21200D
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 16:14:38.136373
+last_modified: 2023-02-08 16:14:38.136455
+source_metadata:
+  title: TYKYN
+  language: zh
+bases:
+  '0511':
+    base_file: 0511.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
